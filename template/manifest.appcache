@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# Version 7ee69291b14f219a8a50a9993f4999cd
+Blank.png
+index.html
+
+manifest.webapp
+style/icons/Blank.png
+test/unit/_proxy.html
+test/unit/_sandbox.html
+http://gaiamobile.org:8080/webapi.js
+NETWORK:
+http://*
+https://*
