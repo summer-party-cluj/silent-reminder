@@ -1,6 +1,6 @@
 {
-  "name": "Template",
-  "description": "Web app template",
+  "name": "silentreminder",
+  "description": "Web app silentreminder",
   "launch_path": "/",
   "developer": {
     "name": "The Gaia Team",
@@ -11,48 +11,48 @@
   ],
   "locales": {
     "ar": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "de": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "el": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "en-US": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "es": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "fr": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "it": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "pt-BR": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "ru": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "tr": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     },
     "zh-TW": {
-      "name": "Template",
-      "description": "Web app template"
+      "name": "silentreminder",
+      "description": "Web app silentreminder"
     }
   },
   "default_locale": "en-US",
