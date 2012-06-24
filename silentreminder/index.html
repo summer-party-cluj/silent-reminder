@@ -1,22 +1,46 @@
 <!DOCTYPE html>
-<html manifest="manifest.appcache">
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style/base.css">
+  <script type="text/javascript" src="js/silentreminder.js"utf-8"></script>
+</head>
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="pragma" content="no-cache">
-    <title>Template</title>
+<body>
+<table>
+<tr>
+<td class="but">
+<button style="height:40px; width:105px" onclick="inc1()"><span style="font-weight:bold;font-size:30px">+</span></button>
+</td>
+<td></td>
+<td class="but">
+<button style="height:40px; width:105px" onclick="inc2()"><span style="font-weight:bold;font-size:30px">+</span></button>
+</td>
+</tr>
+<tr>
+<td class="cutie"><p id="hour">00</p></td>
+<td><p>:</p></td>
+<td class="cutie"><p id="minute">00</p></td>
+</tr>
+<tr>
+<td class="but">
+<button style="height:40px; width:105px" onclick="dec1()"><span style="font-weight:bold;font-size:30px">-</span></button>
+</td>
+<td></td>
+<td class="but">
+<button style="height:40px; width:105px" onclick="dec2()"><span style="font-weight:bold;font-size:30px">-</span></button>
+</td>
+</tr>
+</table>
 
-    <style>
-    </style>
 
-    <script>
-    </script>
-  </head>
+<button class="but2"; style="height:50px; width:237px" onclick="quiet()"><span style="font-weight:bold;font-size:30px">QUIET!</span></button>
+<br/>
+<button class="but2"; style="height:35px; width:237px" onclick="cancel()"><span style="font-weight:bold;font-size:20px">Cancel</span></button>
+</body>
 
-  <body>
-
-    <p>Implement me</p>
-
-  </body>
-
+<br/>
+<p class="information"; id="time"></p>
+<p class="information"; id="start"></p>
+<p class="information"; id="finish"></p>
+<p class="information"; id="status"></p>
 </html>
