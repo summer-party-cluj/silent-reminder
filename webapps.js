@@ -156,6 +156,13 @@ var apps = {
     "installTime": 132333986000,
     "manifestURL": "http://settings.localhost.org:8080/manifest.webapp"
   },
+  "silentreminder": {
+    "origin": rootPath.replace('%%%', 'silentreminder'),
+    "installOrigin": "http://silentreminder.localhost.org:8080",
+    "receipt": null,
+    "installTime": 132333986000,
+    "manifestURL": "http://silentreminder.localhost.org:8080/manifest.webapp"
+  },
   "sms": {
     "origin": rootPath.replace('%%%', 'sms'),
     "installOrigin": "http://sms.localhost.org:8080",
